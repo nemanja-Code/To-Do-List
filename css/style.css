@@ -1,0 +1,33 @@
+.container {
+    border: 2px solid #ccc;
+    border-radius: 10px; 
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+#taskChart {
+    max-width: 400px; 
+    max-height: 400px; 
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+table.table thead th {
+    background-color: #eac100;
+    color: white; 
+}
+
+textarea{
+    width: 85%;
+    border: 0;
+    padding: 10px;
+    resize: none;
+}
+.modal-header{
+    background-color: #eac100;
+    color: white; 
+}
+
